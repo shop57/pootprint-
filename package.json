@@ -1,6 +1,0 @@
-{
-  "name": "pootprint-mexc-proxy",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Footprint chart (pootprint.html) + Vercel serverless proxy for MEXC REST API (fixes browser CORS)."
-}
